@@ -41,4 +41,5 @@ This is a promotional website for a fitness center. It showcases gym facilities,
 
 ## Credits
 - Images from royalty-free sources (e.g., Unsplash, Pexels).
-- Developed by [Your Name].
+- Developed by Prajwal V L, Rineeth S E, Prajwal S Hangaragi
+
